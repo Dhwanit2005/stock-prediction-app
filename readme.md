@@ -39,7 +39,7 @@ How to Run the App:
 --------------------
 1. Clone the Repository:
    Open your terminal and run:
-     git clone https://github.com/your-username/stock-prediction-app.git
+     git clone https://github.com/Dhwanit2005/stock-prediction-app.git
      cd stock-prediction-app
 
 2. Install Dependencies:
